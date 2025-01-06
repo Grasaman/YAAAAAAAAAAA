@@ -1,4 +1,10 @@
 {
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-06 15:26:15 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:building_blocks/waxed_seedless_peeled_melon_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-06 15:32:04 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-01-06 14:58:54 +0000"
@@ -53,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-06 15:22:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-01-06 15:23:32 +0000"
+    },
+    "done": true
+  },
   "beachparty:mini_fridge": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
@@ -62,6 +86,12 @@
   "overweight_farming:building_blocks/waxed_seeded_peeled_melon_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/spectre": {
+    "criteria": {
+      "killed_by": "2025-01-06 15:24:32 +0000"
     },
     "done": true
   },
@@ -110,6 +140,24 @@
   "beachparty:hammock": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-06 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-06 15:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-06 15:23:50 +0000"
     },
     "done": true
   },
@@ -179,15 +227,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:ender_dragon": "2025-01-06 15:22:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-06 15:18:28 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-06 14:58:54 +0000"
     },
     "done": true
   },
+  "unusualend:find_warped_reef": {
+    "criteria": {
+      "find_warped_reef_0": "2025-01-06 15:24:50 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-01-06 15:09:25 +0000"
+    },
+    "done": true
+  },
+  "unusualend:find_gloopstone_plains": {
+    "criteria": {
+      "find_gloopstone_plains_0": "2025-01-06 15:24:40 +0000"
     },
     "done": true
   },
@@ -203,9 +275,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:ender_dragon": "2025-01-06 15:22:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-01-06 15:00:12 +0000",
+      "minecraft:forest": "2025-01-06 15:12:43 +0000",
+      "minecraft:deep_dark": "2025-01-06 15:16:09 +0000",
       "minecraft:meadow": "2025-01-06 15:03:57 +0000",
       "minecraft:plains": "2025-01-06 14:58:55 +0000"
     },
@@ -232,6 +312,12 @@
   "realmrpg_quests:root": {
     "criteria": {
       "root_0": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-06 15:32:04 +0000"
     },
     "done": true
   },
@@ -268,6 +354,12 @@
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "ends_delight:root": {
+    "criteria": {
+      "the_end": "2025-01-06 15:18:28 +0000"
     },
     "done": true
   },
@@ -316,6 +408,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-06 15:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-06 15:18:28 +0000"
     },
     "done": true
   },
