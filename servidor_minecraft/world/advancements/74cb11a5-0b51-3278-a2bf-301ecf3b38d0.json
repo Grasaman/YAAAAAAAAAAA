@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-01-06 15:02:20 +0000"
+    },
+    "done": true
+  },
   "beachparty:sunglasses": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-06 15:09:25 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
@@ -161,9 +173,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-06 15:02:20 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-01-06 15:09:25 +0000"
     },
     "done": true
   },
@@ -181,6 +205,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-06 15:00:12 +0000",
+      "minecraft:meadow": "2025-01-06 15:03:57 +0000",
       "minecraft:plains": "2025-01-06 14:58:55 +0000"
     },
     "done": false
@@ -188,6 +214,12 @@
   "beachparty:palm_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-01-06 15:08:43 +0000"
     },
     "done": true
   },
@@ -278,6 +310,12 @@
   "beachparty:lounge_chair": {
     "criteria": {
       "has_the_recipe": "2025-01-06 14:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-06 15:10:04 +0000"
     },
     "done": true
   },
