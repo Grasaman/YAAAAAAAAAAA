@@ -1,0 +1,4 @@
+[23:32:50] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[23:32:50] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE visuality 0.7.1+1.20 {depends cloth-config @ [*]}, ROOT_FORCELOAD_SINGLE visuality 0.7.1+1.20]
+[23:32:50] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP visuality 0.7.1+1.20 {depends cloth-config @ [*]}]
+[23:32:50] [INFO] [FabricLoader/Resolution]: Fix: add [add:cloth-config 1 ([(-∞,∞)])], remove [], replace []
