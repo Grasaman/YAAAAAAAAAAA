@@ -10130,3 +10130,156 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [06Jan2025 15:35:31.166] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [25, -21], pos: MutableBlockPos{x=415, y=33, z=-335}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [06Jan2025 15:35:31.166] [Worker-Main-11/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [26, -21], pos: MutableBlockPos{x=422, y=33, z=-334}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/blackstone_lakes]
 [06Jan2025 15:35:37.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5706ms or 114 ticks behind
+[06Jan2025 15:35:55.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Jan2025 15:36:14.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3498ms or 69 ticks behind
+[06Jan2025 15:36:22.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt fell out of the world
+[06Jan2025 15:37:18.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitch'/43, l='ServerLevel[world]', x=179.50, y=70.56, z=83.94] died, message: 'Mitch was slain by The Wolf'
+[06Jan2025 15:37:18.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitch'/43, l='ServerLevel[world]', x=179.50, y=70.56, z=83.94] died: Mitch was slain by The Wolf
+[06Jan2025 15:37:44.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chasity'/27, l='ServerLevel[world]', x=119.70, y=76.56, z=53.43] died, message: 'Chasity was shot by Pillager'
+[06Jan2025 15:37:44.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chasity'/27, l='ServerLevel[world]', x=119.70, y=76.56, z=53.43] died: Chasity was shot by Pillager
+[06Jan2025 15:37:49.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> creo que esta bugeado
+[06Jan2025 15:37:58.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> por
+[06Jan2025 15:38:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> ?]
+[06Jan2025 15:38:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> deberia salir 5 veces mas y los illagers de illageandspillage
+[06Jan2025 15:38:42.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ngan'/88, l='ServerLevel[world]', x=164.89, y=83.00, z=80.50] died, message: 'Ngan was slain by Vindicator'
+[06Jan2025 15:38:42.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ngan'/88, l='ServerLevel[world]', x=164.89, y=83.00, z=80.50] died: Ngan was slain by Vindicator
+[06Jan2025 15:38:48.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Van'/27768, l='ServerLevel[world]', x=158.65, y=83.00, z=44.06] died: Van was slain by Vindicator
+[06Jan2025 15:38:49.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Herb'/27771, l='ServerLevel[world]', x=154.35, y=81.91, z=50.39] died: Herb was slain by Guard
+[06Jan2025 15:38:51.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Rickey'/27780, l='ServerLevel[world]', x=153.68, y=80.96, z=44.96] died: Rickey was slain by Vindicator
+[06Jan2025 15:38:51.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darrell'/27767, l='ServerLevel[world]', x=146.76, y=75.00, z=44.30] died: Darrell was fireballed by Igniter
+[06Jan2025 15:38:53.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Andra'/27772, l='ServerLevel[world]', x=154.69, y=81.00, z=50.40] died: Andra was slain by Vindicator
+[06Jan2025 15:38:57.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ivy'/27918, l='ServerLevel[world]', x=154.71, y=82.00, z=48.32] died: Ivy was slain by Guard
+[06Jan2025 15:39:00.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Joaquin'/27957, l='ServerLevel[world]', x=149.58, y=79.00, z=52.72] died: Joaquin was slain by Guard
+[06Jan2025 15:39:01.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Theron'/41, l='ServerLevel[world]', x=183.20, y=83.00, z=75.43] died, message: 'Theron was slain by Samurai'
+[06Jan2025 15:39:01.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Theron'/41, l='ServerLevel[world]', x=183.20, y=83.00, z=75.43] died: Theron was slain by Samurai
+[06Jan2025 15:39:03.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Clifton'/27921, l='ServerLevel[world]', x=150.72, y=76.25, z=42.49] died: Clifton was shattered by davisdrt
+[06Jan2025 15:39:03.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Monte'/27807, l='ServerLevel[world]', x=150.58, y=75.00, z=42.40] died: Monte was shattered by davisdrt
+[06Jan2025 15:39:04.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Eliseo'/27914, l='ServerLevel[world]', x=150.38, y=75.92, z=44.48] died: Eliseo was shattered by davisdrt
+[06Jan2025 15:39:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Voluntary Exile]
+[06Jan2025 15:39:05.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Clarissa'/27935, l='ServerLevel[world]', x=149.50, y=75.00, z=43.30] died: Clarissa was shattered by davisdrt
+[06Jan2025 15:39:14.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Alison'/27919, l='ServerLevel[world]', x=140.16, y=75.00, z=45.00] died: Alison was shattered by davisdrt
+[06Jan2025 15:39:15.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Orlando'/27799, l='ServerLevel[world]', x=139.32, y=75.00, z=44.30] died: Orlando was shattered by davisdrt
+[06Jan2025 15:39:15.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Fredrick'/27897, l='ServerLevel[world]', x=140.61, y=75.00, z=44.96] died: Fredrick was shattered by davisdrt
+[06Jan2025 15:39:15.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kareem'/28023, l='ServerLevel[world]', x=139.37, y=75.00, z=45.31] died: Kareem was shattered by davisdrt
+[06Jan2025 15:39:15.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Randy'/27946, l='ServerLevel[world]', x=141.17, y=75.00, z=44.30] died: Randy was shattered by davisdrt
+[06Jan2025 15:39:16.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darrick'/27904, l='ServerLevel[world]', x=139.51, y=75.00, z=44.30] died: Darrick was shattered by davisdrt
+[06Jan2025 15:39:17.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Virginia'/27882, l='ServerLevel[world]', x=138.40, y=75.00, z=43.87] died: Virginia was shattered by davisdrt
+[06Jan2025 15:39:17.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Travis'/27874, l='ServerLevel[world]', x=139.16, y=75.00, z=44.81] died: Travis was shattered by davisdrt
+[06Jan2025 15:39:17.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Leonora'/27877, l='ServerLevel[world]', x=138.56, y=75.00, z=44.57] died: Leonora was shattered by davisdrt
+[06Jan2025 15:39:18.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Claudine'/27812, l='ServerLevel[world]', x=138.56, y=75.00, z=45.51] died: Claudine was shattered by davisdrt
+[06Jan2025 15:39:18.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Willy'/27896, l='ServerLevel[world]', x=138.70, y=75.00, z=43.30] died: Willy was shattered by davisdrt
+[06Jan2025 15:39:19.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Angelo'/28012, l='ServerLevel[world]', x=165.06, y=81.00, z=22.15] died: Angelo was slain by Decaying Zombie
+[06Jan2025 15:39:19.583] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Wyatt'/27886, l='ServerLevel[world]', x=137.29, y=75.00, z=43.10] died: Wyatt was shattered by davisdrt
+[06Jan2025 15:39:19.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lona'/27872, l='ServerLevel[world]', x=137.52, y=75.00, z=43.79] died: Lona was shattered by davisdrt
+[06Jan2025 15:39:24.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Granville'/27948, l='ServerLevel[world]', x=141.49, y=75.00, z=47.30] died: Granville was shattered by davisdrt
+[06Jan2025 15:39:25.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dante'/27926, l='ServerLevel[world]', x=142.29, y=75.51, z=45.40] died: Dante was shattered by davisdrt
+[06Jan2025 15:39:25.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Jan2025 15:39:30.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pearl'/27942, l='ServerLevel[world]', x=141.15, y=75.00, z=47.11] died: Pearl was shattered by davisdrt
+[06Jan2025 15:40:27.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Antonietta'/27910, l='ServerLevel[world]', x=153.47, y=81.80, z=61.85] died: Antonietta was slain by Vindicator
+[06Jan2025 15:40:53.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Blanch'/27974, l='ServerLevel[world]', x=159.99, y=81.00, z=40.14] died: Blanch was chopped to bits by Skirmisher
+[06Jan2025 15:40:59.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Clyde'/27936, l='ServerLevel[world]', x=154.56, y=81.02, z=46.56] died: Clyde was chopped to bits by Skirmisher
+[06Jan2025 15:41:10.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Raymonde'/27898, l='ServerLevel[world]', x=153.07, y=79.00, z=44.93] died: Raymonde was shot by Pillager
+[06Jan2025 15:41:21.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has completed the challenge [Cover Me in Debris]
+[06Jan2025 15:42:07.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [Hero of the Village]
+[06Jan2025 15:42:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has completed the challenge [Hero of the Village]
+[06Jan2025 15:42:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> creo se bugeo
+[06Jan2025 15:42:25.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> o tal vez
+[06Jan2025 15:42:25.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> pon otra
+[06Jan2025 15:42:28.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> habeer
+[06Jan2025 15:42:33.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Thaddeus'/38, l='ServerLevel[world]', x=176.79, y=65.00, z=94.92] died, message: 'Thaddeus was burnt to a crisp whilst fighting Zombie'
+[06Jan2025 15:42:33.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Thaddeus'/38, l='ServerLevel[world]', x=176.79, y=65.00, z=94.92] died: Thaddeus was burnt to a crisp whilst fighting Zombie
+[06Jan2025 15:42:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[06Jan2025 15:42:46.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> pero ponte en survival
+[06Jan2025 15:42:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> deberia ser igual
+[06Jan2025 15:42:55.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> haber que tan dificil es?
+[06Jan2025 15:44:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set the time to 1000]
+[06Jan2025 15:44:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> no es que se hace mas dificil cada raid
+[06Jan2025 15:45:02.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> tal vez lo cambie a como era antes
+[06Jan2025 15:45:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> tengo una copia
+[06Jan2025 15:45:13.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Luba'/27906, l='ServerLevel[world]', x=170.76, y=89.30, z=-3.05] died: Luba was slain by Vindicator
+[06Jan2025 15:45:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davisdrt: Set own game mode to Survival Mode]
+[06Jan2025 15:45:47.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> si deberia salir x5 veces mas
+[06Jan2025 15:47:16.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> el shogun creo que sit e puede matar
+[06Jan2025 15:47:48.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> creo que si esta bug
+[06Jan2025 15:48:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> LAGASO
+[06Jan2025 15:48:22.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jan2025 15:48:22.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[06Jan2025 15:48:28.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> creo que nsi esta bien pero las armas del cataclis estan muy rotas
+[06Jan2025 15:48:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> para hacerla asi de normal
+[06Jan2025 15:49:00.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> estan bien
+[06Jan2025 15:49:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> porque con netherite
+[06Jan2025 15:49:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> casi me matan
+[06Jan2025 15:49:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [My Bald Satanic Goth Girl Friend]
+[06Jan2025 15:49:58.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=206, y=99, z=-17} BlockPos{x=204, y=97, z=-17}
+[06Jan2025 15:50:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davisdrt: Set own game mode to Spectator Mode]
+[06Jan2025 15:50:53.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> algunos aparecen en el sub suelo
+[06Jan2025 15:51:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Spectator Mode]
+[06Jan2025 15:51:31.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Creative Mode]
+[06Jan2025 15:51:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Spectator Mode]
+[06Jan2025 15:51:41.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Creative Mode]
+[06Jan2025 15:51:54.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Spectator Mode]
+[06Jan2025 15:51:57.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Cool, Cool Cave]
+[06Jan2025 15:52:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Creative Mode]
+[06Jan2025 15:52:09.011] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=296, y=7, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.011] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=297, y=8, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.012] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=297, y=9, z=769}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.012] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=297, y=7, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.012] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=298, y=8, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.013] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=298, y=9, z=769}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.013] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=298, y=10, z=769}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.013] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=298, y=7, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.014] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=299, y=8, z=768}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:09.014] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [18, 48], pos: BlockPos{x=299, y=9, z=769}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / yungscavebiomes:frosted_caves/large_icicle_tilted]
+[06Jan2025 15:52:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> aqui si salio algo bien
+[06Jan2025 15:52:52.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> en todas las raids deben salir 2 bosses y varios tanques
+[06Jan2025 15:53:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Acquire Hardware]
+[06Jan2025 15:53:08.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> te dije
+[06Jan2025 15:53:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> si mal no me equivoco
+[06Jan2025 15:53:24.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> entra cada raid
+[06Jan2025 15:53:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> se va haciendo mas dificil
+[06Jan2025 15:53:48.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> en el antiguo server en la raid inicial salian muchos
+[06Jan2025 15:54:01.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> de lo que salio ahora de verdad era x5
+[06Jan2025 15:54:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> salia esa cantidad
+[06Jan2025 15:54:12.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> si y tenian patrones
+[06Jan2025 15:54:16.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Jan2025 15:54:26.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> primero era un jefe con 2 tanques y luego 4 tanques con un jefe
+[06Jan2025 15:54:30.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ademas era mas larga la raid
+[06Jan2025 15:54:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> como de 12 partes o 8
+[06Jan2025 15:54:35.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4561ms or 91 ticks behind
+[06Jan2025 15:54:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> en la raid final salian muchas entidades creo que llegaron a ser 80 contando slimes
+[06Jan2025 15:54:57.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6267ms or 125 ticks behind
+[06Jan2025 15:55:04.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Minh'/29625, l='ServerLevel[world]', x=199.08, y=107.56, z=7.69] died, message: 'Minh was slain by Sucker'
+[06Jan2025 15:55:04.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Minh'/29625, l='ServerLevel[world]', x=199.08, y=107.56, z=7.69] died: Minh was slain by Sucker
+[06Jan2025 15:55:06.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fred'/31623, l='ServerLevel[world]', x=201.96, y=103.00, z=8.48] died, message: 'Fred was slain by Slugger'
+[06Jan2025 15:55:06.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fred'/31623, l='ServerLevel[world]', x=201.96, y=103.00, z=8.48] died: Fred was slain by Slugger
+[06Jan2025 15:55:10.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> tons
+[06Jan2025 15:55:10.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Edna'/29623, l='ServerLevel[world]', x=197.56, y=108.00, z=8.93] died, message: 'Edna was slain by Sucker'
+[06Jan2025 15:55:10.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Edna'/29623, l='ServerLevel[world]', x=197.56, y=108.00, z=8.93] died: Edna was slain by Sucker
+[06Jan2025 15:55:13.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bella'/29622, l='ServerLevel[world]', x=200.14, y=107.66, z=6.93] died, message: 'Bella was slain by Sucker'
+[06Jan2025 15:55:13.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bella'/29622, l='ServerLevel[world]', x=200.14, y=107.66, z=6.93] died: Bella was slain by Sucker
+[06Jan2025 15:55:17.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[06Jan2025 15:55:17.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> lo mas seguro es que lo cambie a como era antes
+[06Jan2025 15:55:18.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lorretta'/27923, l='ServerLevel[world]', x=193.56, y=92.00, z=31.30] died: Lorretta died whilst trying to escape The Spitter
+[06Jan2025 15:55:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[06Jan2025 15:55:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> creo que habias incluido otro mod mas en la anterior
+[06Jan2025 15:55:32.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dierdre'/27838, l='ServerLevel[world]', x=149.30, y=75.00, z=39.30] died: Dierdre was shot by Huntsman
+[06Jan2025 15:55:37.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[06Jan2025 15:55:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> cual
+[06Jan2025 15:55:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> nose
+[06Jan2025 15:55:45.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set the time to 1000]
+[06Jan2025 15:55:48.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Guillermo'/35974, l='ServerLevel[world]', x=171.92, y=86.00, z=55.10] died: Guillermo burned to death
+[06Jan2025 15:55:49.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> de las arpias?
+[06Jan2025 15:55:50.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> pero creo que si
+[06Jan2025 15:55:52.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Fred'/36258, l='ServerLevel[world]', x=196.18, y=103.00, z=10.01] died: Fred was slain by kevin123j2
+[06Jan2025 15:55:53.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Shin'/36571, l='ServerLevel[world]', x=141.96, y=75.00, z=43.70] died: Shin was slain by Mauricio
+[06Jan2025 15:55:54.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [Hunted]
+[06Jan2025 15:55:55.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ivory'/36366, l='ServerLevel[world]', x=147.98, y=77.31, z=46.17] died: Ivory was burnt to a crisp whilst fighting Mauricio
+[06Jan2025 15:55:58.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5529ms or 110 ticks behind
+[06Jan2025 15:56:01.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davisdrt> no creo
+[06Jan2025 15:56:01.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Arden'/36260, l='ServerLevel[world]', x=172.50, y=84.00, z=61.54] died: Arden burned to death
+[06Jan2025 15:56:06.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Logan'/36159, l='ServerLevel[world]', x=154.49, y=82.54, z=78.53] died: Logan burned to death
+[06Jan2025 15:56:08.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Janise'/36523, l='ServerLevel[world]', x=207.35, y=84.00, z=33.03] died: Janise burned to death
+[06Jan2025 15:56:12.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Estella'/35367, l='ServerLevel[world]', x=153.96, y=81.00, z=72.04] died: Estella was shot by Kesha
+[06Jan2025 15:56:13.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mariano'/37145, l='ServerLevel[world]', x=136.56, y=75.00, z=40.95] died: Mariano was shot by Mauricio
+[06Jan2025 15:56:14.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> tal vez este asi por el mod de las trial
+[06Jan2025 15:56:16.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind

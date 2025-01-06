@@ -337,6 +337,7 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "grass": "2025-01-06 15:42:48 +0000",
       "dirt": "2025-01-06 00:26:47 +0000"
     },
     "done": false
@@ -375,6 +376,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-06 15:11:09 +0000",
+      "minecraft:ravager": "2025-01-06 15:40:52 +0000",
+      "minecraft:vindicator": "2025-01-06 15:40:28 +0000",
       "minecraft:spider": "2025-01-06 00:32:58 +0000",
       "minecraft:creeper": "2025-01-06 00:32:54 +0000",
       "minecraft:witch": "2025-01-06 01:24:15 +0000",
@@ -463,7 +466,8 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_underwater_small_ruins": "2025-01-06 01:32:57 +0000",
-      "locate_underwater_warm_small_ruins": "2025-01-06 01:48:47 +0000"
+      "locate_underwater_warm_small_ruins": "2025-01-06 01:48:47 +0000",
+      "locate_ruin_cold": "2025-01-06 15:36:22 +0000"
     },
     "done": false
   },
@@ -509,6 +513,16 @@
     },
     "done": true
   },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-01-06 15:40:53 +0000",
+      "illageandspillage:engineer": "2025-01-06 15:40:55 +0000",
+      "illageandspillage:twittollager": "2025-01-06 15:44:37 +0000",
+      "illageandspillage:igniter": "2025-01-06 15:40:54 +0000",
+      "illageandspillage:crocofang": "2025-01-06 15:38:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-01-06 15:14:27 +0000"
@@ -524,6 +538,12 @@
   "unusualend:break_gloopy_urn": {
     "criteria": {
       "break_gloopy_urn_0": "2025-01-06 15:25:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-06 15:33:12 +0000"
     },
     "done": true
   },
@@ -551,6 +571,18 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-06 15:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-06 15:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-01-06 15:16:57 +0000"
@@ -560,6 +592,18 @@
   "unusualend:find_gloopstone_plains": {
     "criteria": {
       "find_gloopstone_plains_0": "2025-01-06 15:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-06 15:42:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-06 15:49:37 +0000"
     },
     "done": true
   },
